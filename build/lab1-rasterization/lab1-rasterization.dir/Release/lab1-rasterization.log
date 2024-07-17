@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/lab1-rasterization/CMakeLists.txt
+  lab1_main.cpp
+C:\Users\86189\tda362-labs\lab1-rasterization\lab1_main.cpp(139,35): error C2065: 'vs': undeclared identifier

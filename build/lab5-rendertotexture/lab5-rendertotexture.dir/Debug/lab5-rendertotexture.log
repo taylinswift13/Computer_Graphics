@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/lab5-rendertotexture/CMakeLists.txt
+  lab5_main.cpp
+C:\Users\86189\tda362-labs\lab5-rendertotexture\lab5_main.cpp(361,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  lab5-rendertotexture.vcxproj -> C:\Users\86189\tda362-labs\bin\lab5-rendertotexture.exe

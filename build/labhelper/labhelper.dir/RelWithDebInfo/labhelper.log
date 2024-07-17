@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/labhelper/CMakeLists.txt
+  labhelper.cpp
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(697,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(734,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(737,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(767,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(767,39): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(775,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(797,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\86189\tda362-labs\labhelper\labhelper.cpp(806,42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+  hdr.cpp
+  imgui_impl_sdl_gl3.cpp
+  Generating Code...
+  labhelper.vcxproj -> C:\Users\86189\tda362-labs\build\labhelper\RelWithDebInfo\labhelper.lib

@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Users/86189/tda362-labs/VSUserTemplate.user
+C:/Users/86189/tda362-labs/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+C:/Users/86189/tda362-labs/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+C:/Users/86189/tda362-labs/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+C:/Users/86189/tda362-labs/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+C:/Users/86189/tda362-labs/external/embree2/embree-config-version.cmake
+C:/Users/86189/tda362-labs/external/embree2/embree-config.cmake
+C:/Users/86189/tda362-labs/pathtracer/CMakeLists.txt
+D:/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake
+D:/share/cmake-3.24/Modules/FindOpenMP.cmake
+D:/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/share/cmake-3.24/Modules/FindPackageMessage.cmake

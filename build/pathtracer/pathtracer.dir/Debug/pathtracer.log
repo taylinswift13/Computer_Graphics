@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/pathtracer/CMakeLists.txt
+  main.cpp
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(29,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Settings' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(39,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Environment' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(53,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Image' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\main.cpp(556,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\86189\tda362-labs\pathtracer\main.cpp(566,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\86189\tda362-labs\pathtracer\main.cpp(569,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  Pathtracer.cpp
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(29,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Settings' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(39,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Environment' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(53,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Image' when no variable is declared
+  sampling.cpp
+  HDRImage.cpp
+  embree.cpp
+  material.cpp
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(29,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Settings' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(39,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Environment' when no variable is declared
+C:\Users\86189\tda362-labs\pathtracer\Pathtracer.h(53,2): warning C4091: 'extern ': ignored on left of 'pathtracer::Image' when no variable is declared
+  Generating Code...
+  pathtracer.vcxproj -> C:\Users\86189\tda362-labs\bin\pathtracer.exe

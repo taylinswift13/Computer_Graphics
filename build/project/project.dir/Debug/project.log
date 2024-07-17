@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/project/CMakeLists.txt
+  The system cannot find the path specified.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'C:\Users\86189\tda362-labs\project\CMakeLists.txt' exited with code 3.

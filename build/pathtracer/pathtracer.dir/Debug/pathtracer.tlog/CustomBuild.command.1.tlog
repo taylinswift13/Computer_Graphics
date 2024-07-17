@@ -1,0 +1,10 @@
+^C:\USERS\86189\TDA362-LABS\PATHTRACER\CMAKELISTS.TXT
+setlocal
+D:\bin\cmake.exe -SC:/Users/86189/tda362-labs -BC:/Users/86189/tda362-labs/build --check-stamp-file C:/Users/86189/tda362-labs/build/pathtracer/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/86189/tda362-labs/lab6-shadowmaps/CMakeLists.txt
+  lab6_main.cpp
+C:\Users\86189\tda362-labs\lab6-shadowmaps\lab6_main.cpp(392,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\86189\tda362-labs\lab6-shadowmaps\lab6_main.cpp(376,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  fbo.cpp
+  Generating Code...
+  lab6-shadowmaps.vcxproj -> C:\Users\86189\tda362-labs\bin\lab6-shadowmaps.exe

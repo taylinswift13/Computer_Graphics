@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\lab6_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\fbo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\background.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\background.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\depth.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\depth.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\shading.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\shading.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\simple.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\86189\tda362-labs\lab6-shadowmaps\simple.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{FD1573BF-4789-3F2F-805C-BAA9E3454B03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{424551BB-F0BF-3F36-873B-208766DC0A36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
